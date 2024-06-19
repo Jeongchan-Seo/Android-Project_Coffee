@@ -65,3 +65,4 @@
 
 # 소개영상
 
+https://www.youtube.com/watch?v=D_c7h7ViZOY
