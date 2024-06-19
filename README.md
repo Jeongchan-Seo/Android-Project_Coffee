@@ -10,7 +10,8 @@
 + 프랜차이즈의 종류
 
 ## 초기화면
-![이미지1](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194111.png)
+
+<img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194111.png" width="350" height="700"/>
 
 각각의 이미지를 클릭해서 정보를 확인할 수 있습니다.
 
@@ -18,9 +19,8 @@
 
 ## Coffee Menu
 
+<img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194123.png" width="350" height="700"/><img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194154.png" width="350" height="700"/>
 
-![이미지2](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194123.png)
-![이미지3](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194154.png)
 
 이미지를 클릭하면 커피들에 대한 정보들을 볼 수 있습니다.
 
