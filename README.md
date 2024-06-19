@@ -26,7 +26,7 @@
 
 에스프레소 이미지를 클릭한 모습.
 
-![이미지4](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194207.png)
+<img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194207.png" width="350" height="700"/>
 
 맨 아래의 이미지를 클릭해보면 보다 간결하게 다양한 커피들의 구성요소를 한눈에 확인할 수 있습니다.
 
@@ -34,8 +34,7 @@
 
 ## Bean Variety
 
-![이미지5](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194221.png)
-![이미지6](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194238.png)
+<img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194221.png" width="350" height="700"/><img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194238.png" width="350" height="700"/>
 
 이미지를 클릭하면 나라별 원두에 대한 정보들을 볼 수 있습니다.
 
@@ -49,8 +48,7 @@
 
 ## Coffee Tools
 
-![이미지8](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194337.png)
-![이미지9](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194408.png)
+<img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194337.png" width="350" height="700"/><img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194408.png" width="350" height="700"/>
 
 커피 머신을 3가지 종류로 나눠 내리면서 확인해볼 수 있습니다.
 
@@ -58,8 +56,9 @@
 
 ## Franchise
 
-![이미지10](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194420.png)
-![이미지11](https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194440.png)
+
+<img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194420.png" width="350" height="700"/><img src="https://github.com/Jeongchan-Seo/Android-Project_Coffee/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-19%20194440.png" width="350" height="700"/>
+
 
 각각의 로고들을 클릭하여 원하는 프랜차이즈에 대한 주소로 옮겨 프랜차이즈에 대한 정보들을 얻을 수 있습니다.
 
